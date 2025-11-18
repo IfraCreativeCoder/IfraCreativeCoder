@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ifra Akhter and I'm a passionate Frontend Developer from Karachi, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Ifra Akhter and I'm a passionate Frontend Developer from Karachi, Pakistan.</h2>
 
 ###
 
